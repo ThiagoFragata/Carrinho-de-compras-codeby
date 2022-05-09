@@ -1,0 +1,36 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "TRUFA BENDITO CACAU 55% CACAU 30 G",
+      "price": 1.23,
+      "image": "http://codeby.vteximg.com.br/arquivos/ids/159959-800-1029/truffon-meio-amargo.png?v=636930938547630000"
+    },
+    {
+      "id": 2,
+      "title": "TRUFA MORANGO",
+      "price": 1.23,
+      "image": "http://codeby.vteximg.com.br/arquivos/ids/159939-800-1029/trufa-morango-30g.png?v=636916431597070000"
+    },
+    {
+      "id": 3,
+      "title": "TRUFA TRADICIONAL 30 G",
+      "price": 3.03,
+      "image": "http://codeby.vteximg.com.br/arquivos/ids/159942-800-1029/trufa-tradicional.png?v=636916452526400000"
+    }
+  ]
+}
